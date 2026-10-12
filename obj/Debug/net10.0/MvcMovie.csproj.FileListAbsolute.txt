@@ -1,0 +1,9 @@
+C:\Users\ylim0\AppData\Local\Temp\mvcbuildcheck\appsettings.Development.json
+C:\Users\ylim0\AppData\Local\Temp\mvcbuildcheck\appsettings.json
+C:\Users\ylim0\AppData\Local\Temp\mvcbuildcheck\MvcMovie.staticwebassets.runtime.json
+C:\Users\ylim0\AppData\Local\Temp\mvcbuildcheck\MvcMovie.staticwebassets.endpoints.json
+C:\Users\ylim0\AppData\Local\Temp\mvcbuildcheck\MvcMovie.exe
+C:\Users\ylim0\AppData\Local\Temp\mvcbuildcheck\MvcMovie.deps.json
+C:\Users\ylim0\AppData\Local\Temp\mvcbuildcheck\MvcMovie.runtimeconfig.json
+C:\Users\ylim0\AppData\Local\Temp\mvcbuildcheck\MvcMovie.dll
+C:\Users\ylim0\AppData\Local\Temp\mvcbuildcheck\MvcMovie.pdb
